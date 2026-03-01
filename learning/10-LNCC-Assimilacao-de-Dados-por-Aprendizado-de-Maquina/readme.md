@@ -12,6 +12,8 @@
 - Carga Horária: 6 horas
 - 24 a 27 de Fevereiro de 2026
 
+<!-- - Material: https://github.com/G-Assimila/pvlncc2026 -->
+
 
 ---
 

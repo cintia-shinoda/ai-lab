@@ -43,6 +43,8 @@ ai-lab/
 |  | 08 | [Deep Learning](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/08-LNCC-Deep-Learning) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
 |  | 09 | [Introdução às Redes Neurais Informadas pela Física (PINNs)](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/09-LNCC-Intro-Physics-Informed-Neural-Networks) | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
 |  | 10 | Assimilação de Dados por Aprendizado de Máquina | Verão LNCC 2026 | ![0%](https://geps.dev/progress/0) |
+|  | 11 | Visão Computacional | Nexvisual | ![0%](https://geps.dev/progress/0) |
+
 
 <!-- |  | 1 | [Become an AI Developer Code-Along Series](https://github.com/cintia-shinoda/ai-lab/tree/main/learning/x_deprecated/1-Become-AI-Dev) | DataCamp | ![0%](https://progress-bar.dev/0) |
 
