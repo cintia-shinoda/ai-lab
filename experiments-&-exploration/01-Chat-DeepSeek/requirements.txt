@@ -30,7 +30,7 @@ ollama==0.4.7
 orjson==3.11.7
 packaging==24.2
 pandas==2.2.3
-pillow==12.1.1
+pillow==12.2.0
 protobuf==6.33.5
 pyarrow==19.0.0
 pydantic==2.10.6
