@@ -20,7 +20,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 langchain-core==1.2.28
 langchain-ollama==0.2.3
-langsmith==0.3.3
+langsmith==0.7.31
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
